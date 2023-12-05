@@ -1,0 +1,18 @@
+<html><body onload="document.forms[0].submit()">
+<form action="https://pg-bfj-ckf07.pgcps.org/cgi-bin/blockpage/blockpage.cgi" method="GET">
+<input type="Hidden" name="URL" value="https://raw.githubusercontent.com/necolas/css3-github-buttons/master/index.html">
+<input type="Hidden" name="CAT" value=" Non-Educational (Custom)">
+<input type="Hidden" name="CATNO" value="122">
+<input type="Hidden" name="ACC" value="christain-kalu@pgcps.org">
+<input type="Hidden" name="WHY" value="Policy=ms_ac_students; AD Group=all-middleschool-students">
+<input type="Hidden" name="MOD" value="2">
+<input type="Hidden" name="APP" value="">
+<input type="Hidden" name="ISO" value="0">
+<input type="Hidden" name="IPA" value="172.18.2.56">
+<input type="Hidden" name="RAW" value="https://raw.githubusercontent.com/necolas/css3-github-buttons/master/index.html">
+<input type="Hidden" name="AUTH0" value=", Non-Educational (Custom)">
+<input type="Hidden" name="PGE" value="https://pg-bfj-ckf07.pgcps.org/cgi-bin/blockpage/blockpage.cgi">
+<input type="Hidden" name="STR" value="null,null,null,null,null">
+<input type="Hidden" name="SRV" value="null">
+<input type="Hidden" name="AUTH1" value=",raw.githubusercontent.com/necolas/css3-github-buttons/master/index.html, Non-Educational (Custom)">
+</form></body></html>
